@@ -5,13 +5,17 @@ class CatalogoProdutos
 
     private Dictionary<string, Produto> catalogo;
 
+    private string caminho;
+
     public CatalogoProdutos()
     {
         this.catalogo = new Dictionary<string, Produto>();
+        this.caminho = null;
     }
 
     public void CarregarArq(string arq)
     {
+        this.caminho = arq;
         string[] linhas = File.ReadAllLines(arq);
         catalogo = new Dictionary<string, Produto>();
 
@@ -29,13 +33,29 @@ class CatalogoProdutos
 
     public Produto BuscarPorId(string id)
     {
-        if (catalogo.TryGetValue(id, out Produto result))
+        if (string.IsNullOrWhiteSpace(id))
         {
-            return result;
+            return null;
         }
-        Console.WriteLine("Produto não encontrado!");
-        return null;
+
+        catalogo.TryGetValue(id, out Produto result);
+        return result;
     }
 
-    public void CadastrarProduto(string )
+
+    public bool ExisteSKU(string id)
+    {
+        if (catalogo.ContainsKey(id))
+        {
+            return true;
+        }
+        return false;
+    }
+
+    public void CadastrarProduto(Produto produto)
+    {
+        string linha = $"{produto.Id};{produto.Nome};{produto.Categoria};{produto.Preco.ToString(CultureInfo.InvariantCulture)};{produto.Gramas.ToString(CultureInfo.InvariantCulture)}";
+        File.AppendAllText(caminho, linha + Environment.NewLine);
+        catalogo.Add(produto.Id, produto);
+    }
 }

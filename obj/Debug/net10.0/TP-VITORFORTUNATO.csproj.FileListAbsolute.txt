@@ -12,3 +12,4 @@ C:\Users\vitor.fortunato\Desktop\TP-VITORFORTUNATO\obj\Debug\net10.0\refint\TP-V
 C:\Users\vitor.fortunato\Desktop\TP-VITORFORTUNATO\obj\Debug\net10.0\TP-VITORFORTUNATO.pdb
 C:\Users\vitor.fortunato\Desktop\TP-VITORFORTUNATO\obj\Debug\net10.0\TP-VITORFORTUNATO.genruntimeconfig.cache
 C:\Users\vitor.fortunato\Desktop\TP-VITORFORTUNATO\obj\Debug\net10.0\ref\TP-VITORFORTUNATO.dll
+C:\Users\vitor.fortunato\Desktop\TP-VITORFORTUNATO\obj\Debug\net10.0\TP-VITORFORTUNATO.sourcelink.json

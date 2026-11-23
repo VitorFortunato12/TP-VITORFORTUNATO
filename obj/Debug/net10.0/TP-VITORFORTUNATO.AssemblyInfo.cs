@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-VITORFORTUNATO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89ec733883214650a05d2b3d0fd96746ccda53cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-VITORFORTUNATO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-VITORFORTUNATO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
