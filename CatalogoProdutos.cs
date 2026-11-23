@@ -5,6 +5,8 @@ class CatalogoProdutos
 
     private Dictionary<string, Produto> catalogo;
 
+    private LogLogistica log = new LogLogistica();
+
     private string caminho;
 
     public CatalogoProdutos()
@@ -57,5 +59,6 @@ class CatalogoProdutos
         string linha = $"{produto.Id};{produto.Nome};{produto.Categoria};{produto.Preco.ToString(CultureInfo.InvariantCulture)};{produto.Gramas.ToString(CultureInfo.InvariantCulture)}";
         File.AppendAllText(caminho, linha + Environment.NewLine);
         catalogo.Add(produto.Id, produto);
+        log.Registrar($"PRODUTO CADASTRADA COM SUCESSO | {produto.Id} | {produto.Nome}");
     }
 }
