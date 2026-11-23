@@ -1,0 +1,101 @@
+﻿SKU;Nome;Categoria;Preco;PesoGramas
+SKU-1001;Arroz Integral 1kg;Alimentos;58.39;100
+SKU-1002;Feijão Preto 1kg;Alimentos;67.31;250
+SKU-1003;Macarrão Penne 500g;Alimentos;22.01;2000
+SKU-1004;Azeite de Oliva Extra Virgem 500ml;Alimentos;11.46;2000
+SKU-1005;Sal Refinado 1kg;Alimentos;80.48;150
+SKU-1006;Açúcar Demerara 1kg;Alimentos;54.11;100
+SKU-1007;Farinha de Trigo 1kg;Alimentos;5.1;250
+SKU-1008;Café Torrado e Moído 500g;Alimentos;22.83;1200
+SKU-1009;Molho de Tomate 340g;Alimentos;4.82;250
+SKU-1010;Milho em Conserva 170g;Alimentos;65.08;2000
+SKU-1011;Ervilha em Conserva 170g;Alimentos;50.13;250
+SKU-1012;Atum em Lata 170g;Alimentos;41.76;300
+SKU-1013;Sardinha em Lata 125g;Alimentos;73.24;100
+SKU-1014;Aveia em Flocos 170g;Alimentos;68.82;200
+SKU-1015;Farinha de Mandioca 500g;Alimentos;63.52;400
+SKU-1016;Refrigerante Guaraná 2L;Bebidas;26.79;250
+SKU-1017;Suco de Laranja Integral 1L;Bebidas;86.16;400
+SKU-1018;Água Mineral sem Gás 1.5L;Bebidas;11.43;500
+SKU-1019;Água Mineral com Gás 500ml;Bebidas;10.95;400
+SKU-1020;Cerveja Puro Malte 350ml;Bebidas;55.27;3000
+SKU-1021;Vindo Red Blend 750ml;Bebidas;6.3;750
+SKU-1022;Chá Gelado de Limão 1.5L;Bebidas;49.37;500
+SKU-1023;Energético 473ml;Bebidas;9.39;300
+SKU-1024;Leite UHT Integral 1L;Bebidas;74.99;1200
+SKU-1025;Leite de Amêndoas 1L;Bebidas;79.89;400
+SKU-1026;Água de Coco 1L;Bebidas;52.96;2000
+SKU-1027;Suco de Uva Integral 1L;Bebidas;8.58;1500
+SKU-1028;Sabonete em Barra 90g;Higiene Pessoal;22.42;300
+SKU-1029;Shampoo Anticaspa 400ml;Higiene Pessoal;88.61;250
+SKU-1030;Condicionador Hidratante 400ml;Higiene Pessoal;78.23;500
+SKU-1031;Creme Dental 90g;Higiene Pessoal;26.79;1500
+SKU-1032;Escova de Dentes Macia;Higiene Pessoal;75.4;200
+SKU-1033;Desodorante Roll-on 50ml;Higiene Pessoal;34.85;250
+SKU-1034;Papel Higiênico Folha Dupla 12un;Higiene Pessoal;61.07;2000
+SKU-1035;Fio Dental 50m;Higiene Pessoal;84.36;1500
+SKU-1036;Protetor Solar FPS 50 200ml;Higiene Pessoal;8.74;1500
+SKU-1037;Sabonete Líquido Refil 200ml;Higiene Pessoal;17.46;2000
+SKU-1038;Algodão em Disco 50g;Higiene Pessoal;23.9;750
+SKU-1039;Hastes Flexíveis 75un;Higiene Pessoal;35.66;1500
+SKU-1040;Detergente Líquido 500ml;Limpeza Doméstica;62.65;250
+SKU-1041;Sabão em Pó 1.6kg;Limpeza Doméstica;62.34;3000
+SKU-1042;Amaciante Concentrado 500ml;Limpeza Doméstica;70.32;250
+SKU-1043;Desinfetante Pinho 1L;Limpeza Doméstica;74.33;3000
+SKU-1044;Lava-Louças em Gel 500ml;Limpeza Doméstica;30.07;300
+SKU-1045;Esponja de Aço 8un;Limpeza Doméstica;8.28;1200
+SKU-1046;Multiúso Spray 500ml;Limpeza Doméstica;79.09;400
+SKU-1047;Água Sanitária 2L;Limpeza Doméstica;21.08;750
+SKU-1048;Lustra-Móveis 200ml;Limpeza Doméstica;37.08;1500
+SKU-1049;Saco de Lixo 50L 10un;Limpeza Doméstica;42.6;300
+SKU-1050;Panos Multiuso 5un;Limpeza Doméstica;14.7;2000
+SKU-1051;Limpador de Vidros 500ml;Limpeza Doméstica;51.56;300
+SKU-1052;Pão de Forma Tradicional 480g;Padaria;67.79;500
+SKU-1053;Pão Francês 500g;Padaria;80.97;500
+SKU-1054;Bolo de Cenoura com Chocolate 300g;Padaria;34.14;200
+SKU-1055;Torrada Tradicional 140g;Padaria;47.03;150
+SKU-1056;Pão de Queijo Congelado 400g;Padaria;68.56;150
+SKU-1057;Croissant de Presunto e Queijo;Padaria;15.86;200
+SKU-1058;Brioche Fatiado 400g;Padaria;71.73;500
+SKU-1059;Bisnaguinha 300g;Padaria;54.63;500
+SKU-1060;Banana Prata 1kg;Hortifruti;35.85;750
+SKU-1061;Maçã Gala 1kg;Hortifruti;48.74;1000
+SKU-1062;Tomate Italiano 1kg;Hortifruti;77.73;100
+SKU-1063;Cebola Nacional 1kg;Hortifruti;61.96;150
+SKU-1064;Alho 200g;Hortifruti;62.08;1000
+SKU-1065;Batata Monalisa 1kg;Hortifruti;68.13;3000
+SKU-1066;Cenoura Orgânica 500g;Hortifruti;58.52;150
+SKU-1067;Alface Crespa un;Hortifruti;28.15;200
+SKU-1068;Limão Taiti 1kg;Hortifruti;42.16;2000
+SKU-1069;Mamão Formosa un;Hortifruti;79.05;300
+SKU-1070;Abacaxi Pérola un;Hortifruti;87.44;3000
+SKU-1071;Laranja Pera 1kg;Hortifruti;18.11;150
+SKU-1072;Ração para Cães Adultos 3kg;Pet Shop;78.58;300
+SKU-1073;Ração para Gatos Castrados 1kg;Pet Shop;76.06;1000
+SKU-1074;Sachê Cães Frango 85g;Pet Shop;55.72;200
+SKU-1075;Sachê Gatos Peixe 85g;Pet Shop;35.18;200
+SKU-1076;Petisco Crocante Cães 150g;Pet Shop;49.64;3000
+SKU-1077;Areia Sanitária Gatos 4kg;Pet Shop;83.12;100
+SKU-1078;Shampoo Neutro Pet 500ml;Pet Shop;54.85;750
+SKU-1079;Batata Palha 140g;Snacks e Doces;4.2;400
+SKU-1080;Salgadinho de Milho 100g;Snacks e Doces;79.3;3000
+SKU-1081;Chocolate ao Leite 80g;Snacks e Doces;29.38;100
+SKU-1082;Biscoito Recheado 130g;Snacks e Doces;23.55;1200
+SKU-1083;Castanha de Caju 100g;Snacks e Doces;85.26;150
+SKU-1084;Goma de Mascar sem Açúcar 8un;Snacks e Doces;66.47;150
+SKU-1085;Granola Tradicional 500g;Snacks e Doces;87.98;1000
+SKU-1086;Pipoca para Micro-ondas 100g;Snacks e Doces;69.43;200
+SKU-1087;Leite de Amêndoas 1L;Bebidas;82.44;400
+SKU-1088;Aveia em Flocos 170g;Alimentos;74.97;200
+SKU-1089;Pão de Forma Tradicional 480g;Padaria;63.25;500
+SKU-1090;Batata Monalisa 1kg;Hortifruti;68.51;3000
+SKU-1091;Feijão Preto 1kg;Alimentos;68.74;250
+SKU-1092;Sabonete Líquido Refil 200ml;Higiene Pessoal;19.08;2000
+SKU-1093;Biscoito Recheado 130g;Snacks e Doces;25.57;1200
+SKU-1094;Batata Monalisa 1kg;Hortifruti;72.01;3000
+SKU-1095;Batata Monalisa 1kg;Hortifruti;74.74;3000
+SKU-1096;Batata Monalisa 1kg;Hortifruti;71.03;3000
+SKU-1097;Suco de Laranja Integral 1L;Bebidas;84.42;400
+SKU-1098;Leite de Amêndoas 1L;Bebidas;85.27;400
+SKU-1099;Refrigerante Guaraná 2L;Bebidas;26.11;250
+SKU-1100;Pipoca para Micro-ondas 100g;Snacks e Doces;74.98;200
