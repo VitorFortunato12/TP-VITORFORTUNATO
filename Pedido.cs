@@ -16,7 +16,6 @@ class Pedido
     public int Id_Pedido
     {
         get { return id_pedido; }
-        set { id_pedido = value; }
     }
 
     public string NomeCliente
@@ -33,6 +32,17 @@ class Pedido
 
     public void AdicionarItemPedido(ItemPedido itemPedido)
     {
-        itens.Add(itemPedido);
+        if(itemPedido != null && itemPedido.Quantidade > 0)
+        {
+            for(int i=0; i < itens.Count(); i++)
+            {
+                if(itens[i].Produto.Id == itemPedido.Produto.Id)
+                {
+                    itens[i].Quantidade = itens[i].Quantidade + itemPedido.Quantidade;
+                    return;
+                }
+            }
+            itens.Add(itemPedido);
+        }
     }
 }
